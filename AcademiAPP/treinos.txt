@@ -1,0 +1,7 @@
+1|Perna e Abdomen
+2|Peito
+3|Biceps
+4|Triceps
+5|Cadeira Flexora
+6|perna
+7|1
